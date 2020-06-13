@@ -1,0 +1,9 @@
+#navMainBorder {
+    box-Shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: solid whitesmoke;
+}
+#navTitle {
+    font-size: 3.25rem;
+    padding-Bottom: .5rem;
+    text-Align: center;
+}

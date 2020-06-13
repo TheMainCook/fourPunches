@@ -1,0 +1,14 @@
+#id{
+    border:.1rem solid;
+    box-shadow: 10px 10px 5px grey;
+    display:block;
+}
+#buttonsDiv {
+position: absolute;
+    left: 40%;
+    top: 90%;
+}
+
+#buttonsDiv input {
+    width:5rem
+}
